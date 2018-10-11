@@ -82,7 +82,8 @@ Using APT-GET or similar
         apt-get install libcrypt-openssl-dsa-perl libcrypt-openssl-dsa-perl libcrypt-openssl-rsa-perl \
                 libcrypt-openssl-bignum-perl libcrypt-rijndael-perl libarchive-zip-perl \
                 libio-socket-ssl-perl libxml-simple-perl libhtml-tokeparser-simple-perl \
-		libtext-simpletable-perl lcab cabextract p7zip-full
+		libtext-simpletable-perl lcab cabextract p7zip-full \
+		libswitch-perl libarchive-extract-perl
 
 	
 Manual installation
